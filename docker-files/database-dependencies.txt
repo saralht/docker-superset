@@ -6,6 +6,7 @@ cx_Oracle==7.0.0	                # Oracle        oracle://
 snowflake-sqlalchemy==1.1.6	        # Snowflake     snowflake://
 sqlalchemy-redshift==0.7.2	        # Redshift      redshift+psycopg2://
 pymssql==2.1.4	                    # MSSQL	        mssql://
+pyodbc==4.0.32 
 impyla==0.14.1	                    # Impala	    impala://
 PyAthenaJDBC==2.0.1	                # Athena	    awsathena+jdbc://
 PyAthena==1.4.4	                    # Athena	    awsathena+rest://
